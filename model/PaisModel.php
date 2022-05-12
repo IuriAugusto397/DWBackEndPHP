@@ -1,8 +1,8 @@
 <?php
   class Pais{
-      private $id
-      private $nome
-      private $sigla    
+      private $id;
+      private $nome;
+      private $sigla ;   
    
       public function __construct($nome = NULL, $sigla = NULL)
       {
